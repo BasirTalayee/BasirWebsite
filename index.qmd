@@ -7,12 +7,11 @@ format:
     embed-resources: true  # This ensures HTML is processed correctly
 ---
 
-Entrepreneur, Founder, Storyteller, and Lifelong Learner
-![](images/20240607_reunion_djt_1220.jpg)
+Entrepreneur, Founder, Storyteller, and Lifelong Learner ![](images/20240607_reunion_djt_1220.jpg)
 
-
-<div class="red-background">
-  Get intoxicated with the wine of gratitude. Remember, everything is perfect, yet there is always room for improvement. Observe, learn, and act in the present moment. Breathe, smile, and cherish this moment—it is your life.</div>
+::: red-background
+Get intoxicated with the wine of gratitude. Remember, everything is perfect, yet there is always room for improvement. Observe, learn, and act in the present moment. Breathe, smile, and cherish this moment—it is your life.
+:::
 
 \
 \
@@ -27,10 +26,8 @@ We all come from unique backgrounds and carry stories that are uniquely ours. **
 
 ![](images/20240607_reunion_djt_1330.jpg)
 
-<div class="red-background">
-  “Connection is why we're here; it is what gives purpose and meaning to our lives.” – Brené Brown</div>
-  
-  
+::: red-background
+“Connection is why we're here; it is what gives purpose and meaning to our lives.” – Brené Brown
+:::
 
-**I'm glad our paths crossed!**
----
+## **I'm glad our paths crossed!**
