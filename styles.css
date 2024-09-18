@@ -67,3 +67,16 @@ h1 {
   text-align: center; /* Optional: Center-align the text */
   margin-bottom: 20px; /* Optional: Space out from the next section */
 }
+
+
+.cropped-image {
+  width: 300px; /* Control the width */
+  height: 200px; /* Control the height */
+  object-fit: cover; /* Ensure the image maintains proportions */
+  clip-path: inset(10% 20% 10% 20%); /* Crop the image (top, right, bottom, left) */
+  overflow: hidden;
+}
+hr {
+  display: none;
+  border: none;
+}

@@ -1,7 +1,12 @@
 ---
-title: "About"
+title: "Journey"
+format:
+  html:
+    css: styles.css  # Custom CSS file for styling
+    toc: false
+    embed-resources: true  # This ensures HTML is processed correctly
 ---
 
-About this site
-
-This is Basir Talayee
+::: red-background
+“It’s not what happened to you, but how you react to it that matters.” - Epictetus
+:::
