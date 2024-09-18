@@ -1,11 +1,13 @@
 ---
-title: "Journey"
+title: "About"
 format:
   html:
     css: styles.css  # Custom CSS file for styling
     toc: false
     embed-resources: true  # This ensures HTML is processed correctly
 ---
+
+![](images/Basir-Greatwall.jpg)
 
 ::: red-background
 “It’s not what happened to you, but how you react to it that matters.” - Epictetus
