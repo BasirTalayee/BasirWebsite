@@ -70,8 +70,8 @@ h1 {
 
 
 .cropped-image {
-  width: 300px; /* Control the width */
-  height: 200px; /* Control the height */
+  width: 600px; /* Control the width */
+  height: 300px; /* Control the height */
   object-fit: cover; /* Ensure the image maintains proportions */
   clip-path: inset(10% 20% 10% 20%); /* Crop the image (top, right, bottom, left) */
   overflow: hidden;
