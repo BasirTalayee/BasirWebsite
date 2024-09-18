@@ -7,7 +7,7 @@ format:
     embed-resources: true  # This ensures HTML is processed correctly
 ---
 
-![](images/Basir-Greatwall.jpg)
+![Macalester Entrepreneurship Department](images/MAC-Entre Department.jpg)
 
 <div class="red-background">
   “It’s not what happened to you, but how you react to it that matters.” - Epictetus</div>
@@ -39,7 +39,7 @@ format:
 
 - Immerse in Arabic, Middle Eastern culture, and politics and media.
 
-![Macalester Entrepreneurship Department](images/MAC-Entre Department.jpg)
+![Macalester Entrepreneurship Department](images/Fatima & Mac Entrepunership.jpg)
 
 ## USA
 
@@ -52,6 +52,10 @@ format:
 - Immerse in psychology, marketing, branding & curriculum design.
 
 - Co-founded EmpowerEdX Foundation, secured $1.2 million in scholarships for Afghan students in 2023. 
+
+
+![The journey continues...](images/Basir-Greatwall.jpg)
+
 ---
 
 **\
