@@ -52,5 +52,18 @@ blockquote {
 
 /* Custom CSS to change Navbar color */
 .navbar {
-  background-color: #FF4D00; /* Change the background color of the Navbar */
+  background-color: #d94f42; /* Change the background color of the Navbar */
+}
+
+h1 {
+  font-weight: bold; /* Make the title bold */
+}
+
+.red-background {
+  background-color: #d94f42; /* Adjust the hex value for the exact red color */
+  color: white; /* Ensure text is white for good contrast */
+  padding: 20px; /* Add padding around the content */
+  border-radius: 5px; /* Optional: Add rounded corners */
+  text-align: center; /* Optional: Center-align the text */
+  margin-bottom: 20px; /* Optional: Space out from the next section */
 }

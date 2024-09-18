@@ -5,21 +5,30 @@ format:
     css: styles.css  # Custom CSS file for styling
     toc: false
 ---
-# BASIR TALAYEE
 
-<span class="subtitle">Entrepreneur, Founder, Storyteller, and Lifelong Learner</span>
+![Entrepreneur, Founder, Storyteller, and Lifelong Learner](images/20240607_reunion_djt_1220.jpg)
 
-![Basir Talayee](https://1drv.ms/i/c/65a0d627fcab9fa9/Eejbo5_227NKkQgc4toKOnsB4vDQyoa3XgEfo_2Tvuc2rA?e=HpzQpk.png)
-
-
----
 
 <div class="quote">
-Get intoxicated with the wine of gratitude. Remember, everything is perfect, yet there is always room for improvement. Observe, learn, and act in the present moment. Breathe, smile, and cherish this moment—it is your life.
+<div class="red-background">
+  Get intoxicated with the wine of gratitude. Remember, everything is perfect, yet there is always room for improvement. Observe, learn, and act in the present moment. Breathe, smile, and cherish this moment—it is your life.
 </div>
 
 ---
 
-This is Home page .
+As a lifelong learner, my adventures from **Afghanistan to China, Qatar, and the USA** have been driven by a strong commitment to curiosity, learning, service, innovation, and initiating impactful change.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Equipped with insights from a diverse background in psychology, communication, journalism, marketing, business, cognitive science, epistemology, history, education, theater, Afghan culture, sufism, zen buddhism, and global citizenship, I leverage my knowledge, skills, and real-life experiences to foster a vibrant entrepreneurial and educational ecosystem and serve others.
+
+\
+We all come from unique backgrounds and carry stories that are uniquely ours. **Curiosity** is my beloved guide, helping me learn, ask better questions, practice courage, compassion, and build connections.
+
+<div class="quote">
+
+::: red-background
+G"Connection is why we're here; it is what gives purpose and meaning to our lives." – Brené Brown
+:::
+
+</div>
+
+**I'm glad our paths crossed!**
