@@ -1,11 +1,25 @@
 ---
 title: "Basir Talayee"
+format:
+  html:
+    css: styles.css  # Custom CSS file for styling
+    toc: false
+---
+# BASIR TALAYEE
+
+<span class="subtitle">Entrepreneur, Founder, Storyteller, and Lifelong Learner</span>
+
+![Basir Talayee](https://1drv.ms/i/c/65a0d627fcab9fa9/Eejbo5_227NKkQgc4toKOnsB4vDQyoa3XgEfo_2Tvuc2rA?e=HpzQpk.png)
+
+
+---
+
+<div class="quote">
+Get intoxicated with the wine of gratitude. Remember, everything is perfect, yet there is always room for improvement. Observe, learn, and act in the present moment. Breathe, smile, and cherish this moment—it is your life.
+</div>
+
 ---
 
 This is Home page .
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
