@@ -7,8 +7,11 @@ format:
     embed-resources: true  # This ensures HTML is processed correctly
 ---
 
-Entrepreneur, Founder, Storyteller, and Lifelong Learner\
-![Representing EmpowerEdX at Macalester College's 150th Reunion](images/20240607_reunion_djt_1220.jpg)
+Entrepreneur, Founder, Storyteller, and Lifelong Learner
+
+![Representing EmpowerEdX at Macalester College's 150th Reunion -2024](images/20240607_reunion_djt_1220.jpg)
+
+
 
 ::: red-background
 The wine of gratitude is the path to divine intoxication. Remember, everything is perfect, yet there is always room for improvement. Observe, learn, and act in the present moment. Breathe, smile, and cherish this moment, because this moment is your life.
@@ -26,4 +29,11 @@ We all come from unique backgrounds and carry stories that are uniquely ours. **
 “Connection is why we're here; it is what gives purpose and meaning to our lives.” – Brené Brown
 :::
 
-## **I'm glad our paths crossed!**
+**I'm glad our paths crossed!**
+
+## Contact
+
+- [Linkedin](https://www.linkedin.com/in/basir-talayee/)
+- Email: btalayee@macalester.edu
+
+

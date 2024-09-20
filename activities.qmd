@@ -1,5 +1,5 @@
 ---
-title: "Activities"
+title: "Entrepreneurship"
 format:
   html:
     css: styles.css  # Custom CSS file for styling
@@ -34,9 +34,9 @@ One of the best ways to predict the future is to create it, and remember creativ
 
 - Traveled to seven provinces in China, meet with Afghan and Chinese entrepreneurs and learned about business opportunities between the two countries.
 
-![Free to Play Students](images/Free to play.JPG)
+![Free to Play Program- Students Collective Photo - 2018](images/Free to play.JPG)
 
-##USA
+## USA
 
 - Co-founded EmpowerEdX with Tim and Nadira to solve the education issues in Afghanistan.
 
@@ -44,5 +44,9 @@ One of the best ways to predict the future is to create it, and remember creativ
 
 - Secured $1.2 million in scholarships for five students at colleges and schools abroad. 
 
+![EmpowerEdx Students -2023](images/Studens Celebration-EmpowerEdX.png)
+
+
+![EmpowerEdX Program 2024](images/EmpowerEdx Students.png)
 
 ------------------------------------------------------------------------
