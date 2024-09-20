@@ -1,3 +1,30 @@
 ---
 title: "Activities"
+format:
+  html:
+    css: styles.css  # Custom CSS file for styling
+    toc: false
+    embed-resources: true  # This ensures HTML is processed correctly
 ---
+
+![Macalester Entrepreneurship Department-Fall 2023](images/MAC-Entre%20Department.jpg)
+
+::: red-background
+One of the best ways to predict the future is to create it, and remember creativity is a team effort.
+:::
+
+## Afghanistan
+
+- My parents were entrepreneurs, problem solvers & opportunity creators.  
+
+- My father used to take me to his shop on weekends to help him with sales at age 7. He taught me to talk to strangers, shake hands, look people in the eye, ask them questions, and negotiate. 
+
+- In middle school, I was selling snacks to students on school campus. My mother coached me through this venture and taught me resilience, work ethics, and strategy.
+
+- I secured $560,000 in scholarships for my education at international schools abroad.
+
+
+![Basir Sisters](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKirJG9YxtoY1Cd6grbCsBiUYPJwarzd0L_w&s.png)
+
+
+------------------------------------------------------------------------

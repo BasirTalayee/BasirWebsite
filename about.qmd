@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Journey"
 format:
   html:
     css: styles.css  # Custom CSS file for styling
@@ -7,7 +7,7 @@ format:
     embed-resources: true  # This ensures HTML is processed correctly
 ---
 
-![Macalester Entrepreneurship Department](images/MAC-Entre%20Department.jpg)
+![At The Great Wall of China-2020](images/Diana:Basir%20Great%20wall.jpg)
 
 ::: red-background
 “It’s not what happened to you, but how you react to it that matters.” - Epictetus
@@ -51,6 +51,6 @@ format:
 
 -   Co-founded EmpowerEdX Foundation, secured \$1.2 million in scholarships for Afghan students in 2023.
 
-![The journey continues...](images/Diana:Basir%20Great%20wall.jpg)
+![The journey continues...](images/Basir:sitting on road.jpg)
 
 ------------------------------------------------------------------------
