@@ -7,52 +7,50 @@ format:
     embed-resources: true  # This ensures HTML is processed correctly
 ---
 
-![Macalester Entrepreneurship Department](images/MAC-Entre Department.jpg)
+![Macalester Entrepreneurship Department](images/MAC-Entre%20Department.jpg)
 
-<div class="red-background">
-  “It’s not what happened to you, but how you react to it that matters.” - Epictetus</div>
-  
+::: red-background
+“It’s not what happened to you, but how you react to it that matters.” - Epictetus
+:::
 
 ## Afghanistan
 
-- Born a year before the 9/11 attack in central Afghanistan.
+-   Born a year before the 9/11 attack in central Afghanistan.
 
-- Raised in a multilingual, multicultural, entrepreneurial, and Sufi setting.
+-   Raised in a multilingual, multicultural, entrepreneurial, and Sufi setting.
 
-- Learned courage, service, sales, and resilience from my parents and the streets of Kabul.
+-   Learned courage, service, sales, and resilience from my parents and the streets of Kabul.
 
 ![Keystone Academy, China](https://world-schools.com/wp-content/uploads/2020/06/326_img2_900x600.jpg.optimal.jpg)
 
 ## China
 
-- The first Afghan high school student in the history of China to attend Keystone Academy, Beijing in 2017. 
+-   The first Afghan high school student in the history of China to attend Keystone Academy, Beijing in 2017. 
 
-- Completed grades 10, 11, and 12; immersed in Chinese language and culture, traveled to 7 provinces in China.
+-   Completed grades 10, 11, and 12; immersed in Chinese language and culture, traveled to 7 provinces in China.
 
-- COVID-19 Pandemic - Immersed in intuitive cooking and marathon biking.
-  
+-   COVID-19 Pandemic - Immersed in intuitive cooking and marathon biking.
 
 ## Qatar
 
-- Majored in Strategic Communication and Journalism, learning about the impact of media and Storytelling
+-   Studied Strategic Communication and Journalism, learning about the impact of media and Storytelling.
 
-- Served as an Admissions Diplomat for Northwestern University in Qatar, representing the university and its brand.
+-   Served as an Admissions Diplomat for Northwestern University in Qatar, representing the university and its brand.
 
-- Immerse in Arabic, Middle Eastern culture, and politics and media.
+-   Immerse in Arabic, Middle Eastern culture, and American politics and media.
 
-![Macalester Entrepreneurship Department & Our Success](images/Fatima & Mac Entrepunership.jpg)
+![Macalester Entrepreneurship Department & Our Success](images/Fatima%20&%20Mac%20Entrepunership.jpg)
 
 ## USA
 
-- Taliban took over of Afghanistan, helped with family affairs.
+-   Taliban took over of Afghanistan, helped with family affairs.
 
-- Attended Minneapolis & Macalester College, immerse in American Culture & Politics
+-   Attended Minneapolis & Macalester College, immerse in American Culture & Politics
 
-- Immerse to entrepreneurship experiences: Zia & Priti Fund & MacStartUp.
+-   Immerse to entrepreneurship experiences: Zia & Priti Fund & MacStartUp.
 
-- Co-founded EmpowerEdX Foundation, secured $1.2 million in scholarships for Afghan students in 2023. 
+-   Co-founded EmpowerEdX Foundation, secured \$1.2 million in scholarships for Afghan students in 2023.
 
+![The journey continues...](images/Diana:Basir%20Great%20wall.jpg)
 
-![The journey continues...](images/Diana:Basir Great wall.jpg)
-
----
+------------------------------------------------------------------------
