@@ -7,7 +7,7 @@ format:
     embed-resources: true  # This ensures HTML is processed correctly
 ---
 
-![Afghan Students - EmpowerEdX Program 2024](images/EmpowerEdx Students.png)
+![Afghan Students - EmpowerEdX Program 2023-24](images/EmpowerEdx Students.png)
 
 ::: red-background
 One of the best ways to predict the future is to create it, and remember creativity is a team effort.
